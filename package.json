@@ -37,13 +37,9 @@
     "react-hook-form": "^7.11.0",
     "react-icons": "^4.2.0",
     "react-material-ui-carousel": "^2.2.7",
-    "react-responsive-carousel": "^3.2.21",
-    "streamifier": "^0.1.1",
-    "styled-components": "^5.3.1"
+    "streamifier": "^0.1.1"
   },
   "devDependencies": {
-    "@zeit/next-css": "^1.0.1",
-    "babel-plugin-styled-components": "^1.13.2",
     "eslint": "7.29.0",
     "eslint-config-next": "11.0.1"
   }
