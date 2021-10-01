@@ -3,14 +3,14 @@ module.exports = {
   images: { domains: ['res.cloudinary.com'] },
 }
 
-// module.exports = {
-//   webpack5: true,
-//   webpack: (config) => {
-//     config.resolve.fallback = { fs: false }
+module.exports = {
+  webpack5: true,
+  webpack: (config) => {
+    config.resolve.fallback = { fs: false }
 
-//     return config
-//   },
-// }
+    return config
+  },
+}
 
 module.exports = {
   images: {
